@@ -193,7 +193,7 @@ resistencia de 1200 ohm podemos ver como la potencia se comienza a reducir.
 
 6.5.5. ¿Cuál fue la potencia máxima en RL? ________Watts
 
-La potencia máxima fue 0.075 watts.
+La potencia máxima fue 0.0074529 watts.
 
 6.5.6. ¿Para qué valor de RL se obtiene la MTP? _____ Ω
 
@@ -203,7 +203,7 @@ Para el valor de 1000Ω.
 
 ![image](https://user-images.githubusercontent.com/116817673/212325619-d254c481-f414-484b-beee-592233b5424e.png)
 
-El presente grafic muestra una grafica potencia-resistencia donde podemos ver que alcanza el pico mas alto  en 1200 ohms con 0.0075 W.
+El presente grafico muestra una grafica potencia-resistencia donde podemos ver que alcanza el pico mas alto  en 1200 ohms con 0.0075 W.
 
 # 5. VÍDEO.
 
