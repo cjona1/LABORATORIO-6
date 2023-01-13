@@ -179,6 +179,25 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/116687152/212180940-e18d83f2-4a72-45c9-af66-5337675393ea.png)
 
+Observamos que estos datos tuvieron unos pequeños márgenes de error y esto se podría dar por dos razones: al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias , y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez interviene el hecho que no habíamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos.
+
+6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.
+
+Si se cumple ya que al momento de acércanos a la resistencia de 1200 ohm podemos observar cómo su potencia comienza a aumentar y además mientras más se aleja de la 
+resistencia de 1200 ohm podemos ver como la potencia se comienza a reducir.
+
+6.5.5. ¿Cuál fue la potencia máxima en RL? ________Watts
+
+La potencia máxima fue 0.075 watts.
+
+6.5.6. ¿Para qué valor de RL se obtiene la MTP? _____ Ω
+
+Para el valor de 1000Ω.
+
+6.5.7. Grafique la curva Potencia vs RL y comente
+
+
 # 5. VÍDEO.
 
 Adjunto al link del video donde se explica la práctica y el teorema de Thévenin:
