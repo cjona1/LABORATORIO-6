@@ -201,10 +201,13 @@ Para el valor de 1000Ω.
 
 6.5.7. Grafique la curva Potencia vs RL y comente
 
+![image](https://user-images.githubusercontent.com/116817673/212325619-d254c481-f414-484b-beee-592233b5424e.png)
+
+La maxima transferencia de potencia se da con la resistencia de 1200 ohm y una potencia de  0.0075 W.
 
 # 5. VÍDEO.
 
-Adjunto al link del video donde se explica la práctica y el teorema de Thévenin:
+Adjunto al link del video donde se explica la práctica y el teorema de tranferencia de maxima potencia:
 
 https://www.youtube.com/watch?v=-gsD-zzqaPk
 
