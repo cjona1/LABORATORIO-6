@@ -35,7 +35,11 @@ OBJETIVOS ESPECÍFICOS
 
 # 2. MARCO TEÓRICO.
 
+![image](https://user-images.githubusercontent.com/116817673/212315827-7e9509ef-5375-434d-914f-16cd40040721.png)
 
+![image](https://user-images.githubusercontent.com/116817673/212316486-bfa69410-8796-4cc6-8fb9-c0cd4a980d6b.png)
+
+![image](https://user-images.githubusercontent.com/116817673/212316553-5cacf184-15a1-4d5e-81ad-698fa7746846.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO.
 
@@ -206,11 +210,17 @@ https://www.youtube.com/watch?v=-gsD-zzqaPk
 
 # 6. CONCLUSIONES.
 
+● Se comprende el Teorema de la Máxima Transferencia de Potencia, y con ello se determina los voltajes, las potencias y corrientes en el circuito dado no solo teóricamente si no que en el uso practico como en la simulación.
+
+● El teorema de Maxíma Transferencia de potencia han permitido determinar que la resistencia de 1 kOhm es la que brinda una mayor potencia en el circuito eléctrico resuelto de forma teórica y por medio de la simulación, se ha determinado que la potencia en las resistencias incrementaban al acercarse al valor de 1000 ohms y se reduce al alejarse de la misma.
+
+● Durante el desarrollo de la práctica, se modificará para familiarizarse con la onda senoidal, pues esto es muy importante para entender el funcionamiento y donde se aplica ya que se trabaja con corriente alterna.
+
+● Las medidas realizadas con el osciloscopio varían de las realizadas con el multímetro debido a la diferente escala con la que se mide; en la medición con el osciloscopio se introduce un error humano ya que el instrumento es análogo y variará dependiendo de la percepción del observador, pero esta variación será mínima.
+
+● La sensibilidad y la escala son directamente proporcionales, mientras que la resolución y la escala son inversamente proporcionales.
+
 # 7. BIBLIOGRAFÍA.
 
 •	Floyd, TL (2007). Principios de Circuitos Electricos. México: Pearson Educación. https://classroom.google.com/u/2/c/NDkxMjI5MzU3MTI3/m/NDkxMjc4MjMwNDMz/detalles
-
-
-
-
 
