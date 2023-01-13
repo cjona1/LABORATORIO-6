@@ -203,7 +203,7 @@ Para el valor de 1000Ω.
 
 ![image](https://user-images.githubusercontent.com/116817673/212325619-d254c481-f414-484b-beee-592233b5424e.png)
 
-La maxima transferencia de potencia se da con la resistencia de 1200 ohm y una potencia de  0.0075 W.
+El presente grafic muestra una grafica potencia-resistencia donde podemos ver que alcanza el pico mas alto  en 1200 ohms con 0.0075 W.
 
 # 5. VÍDEO.
 
